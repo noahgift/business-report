@@ -6,4 +6,6 @@ This is my information for a critical thinking excercise
 
 ## Notebook
 
+[Technical Report](https://github.com/noahgift/business-report/blob/master/technical_report.ipynb)
+
 ## Conclusion
