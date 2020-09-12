@@ -1,0 +1,15 @@
+Column name,Feature importance
+capital_gain,0.15976258
+age,0.13726619
+marital_status,0.13045399
+education_num,0.08823806
+occupation,0.088032894
+relationship,0.0792761
+hours_per_week,0.07420297
+capital_loss,0.06614069
+education,0.05354133
+sex,0.048094716
+fnlwgt,0.035662152
+workclass,0.024903068
+native_country,0.0076207747
+race,0.00680449
